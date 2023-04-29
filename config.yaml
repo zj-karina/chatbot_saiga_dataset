@@ -1,0 +1,6 @@
+args:
+  dataset_name: "IlyaGusev/ru_turbo_saiga"
+  batch_size: 5
+  sft_lr: 3e-4
+model:
+  model_name_or_path: "/mnt/opt/alexw/Kar/saiga/instruct_rugptlarge"
